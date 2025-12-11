@@ -40,6 +40,12 @@
 <h3>4. Run Setup:</h3>
 <pre><code>python setup.py</code></pre>
 
+<h3>Eror Fix :</h3>
+<p>If you face any issue check youre internet connection and rerun commands</p>
+<p>Run :</p>
+<pre><code>cd ps1-burp</code></pre>
+<p>Run :</p>
+<pre><code>python setup.py</code></pre>
 <hr>
 
 <h2 id="follow-me-on-github">⭐ Follow Me On GitHub</h2>
