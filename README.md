@@ -15,7 +15,8 @@
     🚀 This tool is continuously updated for better performance, stability, and user experience.
 </blockquote>
 
-<h3>⚠️ Before starting, ensure that Termux X-11 is installed on your device.</h3>
+<h2>
+⚠️ Warning :</h2><p>Before starting, ensure that Termux X-11 is installed on your device.</p>
 
 <h4>Install Termux X-11:</h4>
 <pre>
