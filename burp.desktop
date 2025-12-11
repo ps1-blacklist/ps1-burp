@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Burp Suite
+Comment=
+Exec=java -jar /data/data/com.termux/files/home/.tools-image/burp/burpsuite.jar
+Icon=/data/data/com.termux/files/home/.tools-image/burp/kindpng_2064380.png
+Path=
+Terminal=false
+StartupNotify=false
