@@ -41,6 +41,8 @@
 <pre><code>python setup.py</code></pre>
 
 <h3>Eror Fix :</h3>
+<p>
+⚠️ While the script is running, you must not use any VPN connection or pause the script. Otherwise, the Burp Suite file may get corrupted and may not run.</p>
 <p>If you face any issue check youre internet connection and rerun commands</p>
 <p>Run :</p>
 <pre><code>cd ps1-burp</code></pre>
