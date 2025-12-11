@@ -9,7 +9,7 @@
     </a>
 </p>
 
-<p>⚡ A simple Termux tool to automatically install <b>Burp Suite Community Edition</b> on Termux X11 with a single script.</p>
+<p>⚡ A simple Termux tool to automatically install <b>Burp Suite Community Edition</b> on Termux X11.</p>
 
 <blockquote>
     🚀 This tool is continuously updated for better performance, stability, and user experience.
